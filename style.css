@@ -56,6 +56,10 @@ body {
     justify-content: center;
 }
 
+.search button:hover{
+    background: #9dbbb6;
+}
+
 .search button img {
     width: 16px;
 }
